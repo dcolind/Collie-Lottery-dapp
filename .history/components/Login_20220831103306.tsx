@@ -12,7 +12,7 @@ function Login() {
           src="https://yt3.ggpht.com/Icbp8wymqNkM5UyS_83XIrytKPNVT_wfHOpODP04MOLCBV3trdzSu9_X6tpbLcnrhTfkzdVxoQ=s88-c-k-c0x00ffffff-no-rj-mo"
           alt=""
         />
-        <h1 className="text-6xl text-white font-bold">CRYPTO DRAW</h1>
+        <h1 className="text-6xl text-white font-bold"> DRAW</h1>
         <h2 className="text-white">
           Get started by logging in with your MetaMask
         </h2>
