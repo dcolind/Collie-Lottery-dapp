@@ -114,7 +114,7 @@ const Home: NextPage = () => {
             alt=""
           />
           <h1 className="text-lg text-white font-bold">
-            Loading the DRAW
+            Loading the  DRAW
           </h1>
         </div>
         <PropagateLoader color="white" size={30} />
