@@ -16,7 +16,7 @@ function Header() {
           alt=""
         />
         <div>
-          <h1 className="text-lg text-white font-bold">Web3 Lottery App</h1>
+          <h1 className="text-lg text-white font-bold">Web3 Lotter</h1>
           <p className="text-xs text-emerald-500 truncate">
             User: {address?.substring(0, 5)}...
             {address?.substring(address.length, address.length - 5)}

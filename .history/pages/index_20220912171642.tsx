@@ -309,7 +309,7 @@ const Home: NextPage = () => {
         />
 
         <p className="text-xs text-emerald-900 pl-5">
-            This App was built using Next, Tyepscript and TailwindCSS. Log in capabilites through MetaMask was achieved using the Web3Modal library. The smart contract was written in Solidity and deployed to the Rinkeby testnet.       
+           This app was made using Next           
         </p>
       </footer>
     </div>

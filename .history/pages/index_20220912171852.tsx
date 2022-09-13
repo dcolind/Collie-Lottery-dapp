@@ -304,12 +304,12 @@ const Home: NextPage = () => {
       <footer className="border-t border-emerald-500/20 flex items-center text-white justify-between p-5">
         <img
           className="h-10 w-10 filter hue-rotate-90 opacity-20 rounded-full"
-          src="https://yt3.ggpht.com/Icbp8wymqNkM5UyS_83XIrytKPNVT_wfHOpODP04MOLCBV3trdzSu9_X6tpbLcnrhTfkzdVxoQ=s88-c-k-c0x00ffffff-no-rj-mo"
+          src="https://yt3.ggpht.com/Icbp8wymqNkM5UyS_83XIrytKPNVT_wfHOpODP04MOLCBV3trdzSu9_X6tpbLcnrhTfkzdVxoQ=s88-c-k-c0x00ffffff-no-rj-m"
           alt=""
         />
 
-        <p className="text-xs text-emerald-900 pl-5">
-            This App was built using Next, Tyepscript and TailwindCSS. Log in capabilites through MetaMask was achieved using the Web3Modal library. The smart contract was written in Solidity and deployed to the Rinkeby testnet.       
+        <p className="text-xs text-emerald-900 pr-5">
+            This App was built using Next, Tyepscript and TailwindCSS         
         </p>
       </footer>
     </div>

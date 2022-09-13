@@ -12,11 +12,11 @@ function Header() {
       <div className="flex items-center space-x-2">
         <img
           className="rounded-full h-20 w-20"
-          src="https://yt3.ggpht.com/Icbp8wymqNkM5UyS_83XIrytKPNVT_wfHOpODP04MOLCBV3trdzSu9_X6tpbLcnrhTfkzdVxoQ=s88-c-k-c0x00ffffff-no-rj-mo"
+          src=""
           alt=""
         />
         <div>
-          <h1 className="text-lg text-white font-bold">Web3 Lottery App</h1>
+          <h1 className="text-lg text-white font-bold">DRAW</h1>
           <p className="text-xs text-emerald-500 truncate">
             User: {address?.substring(0, 5)}...
             {address?.substring(address.length, address.length - 5)}
