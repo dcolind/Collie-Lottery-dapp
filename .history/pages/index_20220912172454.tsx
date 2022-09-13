@@ -146,7 +146,7 @@ const Home: NextPage = () => {
   return (
     <div className="bg-[#251737] min-h-screen flex flex-col">
       <Head>
-        <title>Web3 Lottery</title>
+        <title>PAPAFAM Lottery</title>
       </Head>
 
       <div className="flex-1">
